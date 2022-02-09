@@ -1,0 +1,17 @@
+/* tag selectr */
+h1{
+    color: rgb(26, 29, 221);
+}
+/* id selectr */
+#a1{
+    color: brown;
+
+}
+#a2{
+    color: brown;
+}
+/* class selectr */
+.c1{
+    color: palevioletred
+    ;
+}

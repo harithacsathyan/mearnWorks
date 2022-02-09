@@ -1,0 +1,19 @@
+/* search google fonts 
+select font copy the font family
+import the link */
+
+@import url('https://fonts.googleapis.com/css2?family=Pushster&family=Shizuru&family=Yuji+Hentaigana+Akebono&display=swap');
+h1{
+    font-family: 'Shizuru', cursive;
+}
+p{
+    font-family: 'Pushster', cursive;
+}
+h2{
+    font-family: 'Yuji Hentaigana Akebono', cursive;
+}
+body{
+    background-image: url(./image/flwr1.jpg);
+    /* background-size: cover; */
+    background-repeat: no-repeat;
+}

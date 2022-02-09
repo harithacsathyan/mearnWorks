@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+}
+div{
+width: 19%;
+background-color:black;
+height: 560px;
+float: left;
+
+}
+h2{
+    color: white;
+}
+p{
+    color: white;
+}
+img{
+    width: 92%;
+    height: 230px;
+}
+#d1{
+    text-align: center;
+    width: 80%;
+    height: 15px;
+    background-color: rgb(192, 144, 12);
+    border: white 4px solid;
+    padding: 5px;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+h3{
+    color: black;
+}

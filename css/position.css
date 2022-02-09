@@ -1,0 +1,35 @@
+.row{
+    width: 50%;
+    height: 500px;
+    background-color: blue;
+    position: relative;
+    /* relative property */
+}
+.col{
+    width: 100px;
+    height: 300px;
+    border: black 2px solid;
+}
+.col_1{
+    position: absolute;
+    /* absolute property 
+    moves where the relative proerty is*/
+    left: 5px;
+    background-color: brown;
+}
+.col_2{
+    position: absolute;
+    left: 105px;
+    background-color: rgb(42, 44, 165);
+}
+.col_3{
+    position: absolute;
+    left: 205px;
+    background-color: rgb(157, 165, 42);
+}
+.col_4{
+    position: absolute;
+    left: 305px;
+    background-color: rgb(165, 42, 155);
+}
+/* if there is no position proprty it is called static */
